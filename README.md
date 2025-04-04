@@ -1,4 +1,4 @@
-# 🗃️ Employee Management System (SQL Project)
+# Employee Management System (SQL Project)
 
 This project is a SQL-based Employee Management System designed to help organizations efficiently store, manage, and query employee-related data including departments, salaries, projects, and leaves.
 
